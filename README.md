@@ -7,7 +7,7 @@ I'm a Fullstack Developer based in Hyderabad, India. I'm passionate about learni
 - 💬 Ask me about Fullstack development, MERN stack, or anything related to web development.
 - 📫 How to reach me: [a.prashanth5reddy@gmail.com](mailto:a.prashanth5reddy@gmail.com).
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I'm a coffee enthusiast and can't start my day without a cup of freshly brewed coffee.
+- ⚡ Fun fact: I'm a tea enthusiast and can't start my day without a refreshing cup of brewed tea.
 
 ### 🚀 My Tech Stack
 
