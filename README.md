@@ -36,23 +36,23 @@ I love working on side projects. Here are a few highlights:
 
 1. **Nxtrends - E-commerce Platform**
    - Description: An e-commerce platform developed with the MERN stack.
-   - GitHub Repository: https://github.com/prashanthkumarreddyA/user-frontend-code.git
+   - [GitHub Repository](https://github.com/prashanthkumarreddyA/user-frontend-code.git)
 
 2. **NxtWatch - A Netflix-like Video Streaming App**
    - Description: A video streaming web application similar to Netflix, with a YouTube-like interface.
-   - GitHub Repository: https://github.com/prashanthkumarreddyA/NxtWatch-Like-YouTube.git
+   - [GitHub Repository](https://github.com/prashanthkumarreddyA/NxtWatch-Like-YouTube.git)
 
 3. **JobbyApp - Job Search Portal**
    - Description: A job search portal designed to help job seekers find their dream jobs and connect with employers.
-   - GitHub Repository: https://github.com/prashanthkumarreddyA/jobbyApp.git
+   - [GitHub Repository](https://github.com/prashanthkumarreddyA/jobbyApp.git)
   
-You can explore these projects and more on my [portfolio website](https://prashanth-reddy-portfolio.netlify.app/)
+You can explore these projects and more on my [Portfolio Website](https://prashanth-reddy-portfolio.netlify.app/)
 
 ### 📫 Get in Touch
 
 Feel free to reach out:
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/prashanth-kumar-reddy-addula-656509198/)
+- [LinkedIn](https://www.linkedin.com/in/prashanth-kumar-reddy-addula-656509198/)
 
 ### 🔗 More Links
 
